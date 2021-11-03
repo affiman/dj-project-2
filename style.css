@@ -1,0 +1,16 @@
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px solid black;
+    border-radius: 20px;
+    margin: 20px;
+    box-shadow: 5px 5px 5px black;
+    
+}
+
+.play_button{
+    width: 130px;
+    
+}
